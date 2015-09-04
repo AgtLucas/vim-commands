@@ -4,6 +4,8 @@ Just for fun, to remember...
 
 Source: http://robertnyman.com/2014/10/16/getting-started-with-understanding-the-power-of-vim/
 
+## Cursor movement
+
 ```
 h - move left
 j - move down
