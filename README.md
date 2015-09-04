@@ -59,3 +59,11 @@ ib - inner () block
 iB - inner {} block
 Esc - exit visual mode
 ```
+
+```
+> - shift right
+< - shift left
+y - yank (copy) marked text
+d - delete marked text
+~ - switch case
+```
