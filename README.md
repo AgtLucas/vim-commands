@@ -66,6 +66,8 @@ iB - inner {} block
 Esc - exit visual mode
 ```
 
+## Visual commands
+
 ```
 > - shift right
 < - shift left
