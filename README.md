@@ -79,3 +79,10 @@ dd - delete (cut) a line
 dw - delete (cut) the current word
 x - delete (cut) current character
 ```
+
+```
+:w - write (save) the file, but don't exit
+:wq - write (save) and quit
+:q - quit (fails if anything has changed)
+:q! - quit and throw away changes
+```
