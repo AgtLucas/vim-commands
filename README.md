@@ -35,6 +35,8 @@ ea - append at end of word
 Esc - exit insert mode
 ```
 
+## Editing
+
 ```
 r - replace a single character (does not use insert mode)
 J - join line below to the current one
