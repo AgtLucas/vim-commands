@@ -86,3 +86,12 @@ x - delete (cut) current character
 :q - quit (fails if anything has changed)
 :q! - quit and throw away changes
 ```
+
+```
+/pattern - search for pattern
+?pattern - search backward for pattern
+n - repeat search in same direction
+N - repeat search in opposite direction
+:%s/old/new/g - replace all old with new throughout file
+:%s/old/new/gc - replace all old with new throughout file with confirmations
+```
