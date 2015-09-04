@@ -76,6 +76,8 @@ d - delete marked text
 ~ - switch case
 ```
 
+## Cut and Paste
+
 ```
 yy - yank (copy) a line
 2yy - yank 2 lines
