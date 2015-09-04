@@ -50,6 +50,8 @@ u - undo
 . - repeat last command
 ```
 
+## Marking text (visual mode)
+
 ```
 v - start visual mode, mark lines, then do command (such as y-yank)
 V - start Linewise visual mode
