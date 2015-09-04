@@ -67,3 +67,15 @@ y - yank (copy) marked text
 d - delete marked text
 ~ - switch case
 ```
+
+```
+yy - yank (copy) a line
+2yy - yank 2 lines
+yw - yank word
+y$ - yank to end of line
+p - put (paste) the clipboard after cursor
+P - put (paste) before cursor
+dd - delete (cut) a line
+dw - delete (cut) the current word
+x - delete (cut) current character
+```
